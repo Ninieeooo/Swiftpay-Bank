@@ -30,3 +30,4 @@ SwiftPay is a modern and intuitive banking application designed to simplify fina
 * **Responsive Design:** The app is designed to work across various device sizes, ensuring a smooth experience on both mobile and tablet devices.
 
 
+[Visit My Project Page]("https://www.figma.com/design/4z8prUtKoSB75dzoYVEDZK/Swiftpay?node-id=1-37&t=hi55Odid8zCB8aCQ-0)")
